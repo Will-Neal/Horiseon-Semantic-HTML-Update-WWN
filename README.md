@@ -19,5 +19,5 @@ Alternate text was added to all photos where it was previously missing. This wil
 
 <br>
 
-![website](.\assets\images\horiseon-page-mockup.png)
+![website](https://github.com/Will-Neal/Horiseon-Semantic-HTML-Update-WWN/blob/main/assets/images/horiseon-page-mockup.png?raw=true)
 
