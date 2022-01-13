@@ -19,5 +19,5 @@ Alternate text was added to all photos where it was previously missing. This wil
 
 <br>
 
-![website](assets\images\horiseon-page-mockup.png)
+![website](.\assets\images\horiseon-page-mockup.png)
 
